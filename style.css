@@ -1,0 +1,184 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    margin-left: 220px;
+    margin-right: 220px;
+    margin-top: 0px;
+    
+}
+
+.nav {
+    background-color: #1F2937;
+    color: #f9FAF8;
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px;
+    padding-left: 225px;
+    padding-right: 225px;
+    
+}
+
+.logo {
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    gap: 35px;
+}
+
+.header {
+    background-color: #1F2937;
+    padding: 85px;
+    padding-left: 225px;
+    padding-right: 225px;
+    display: flex;
+}
+
+.signup {
+    padding-right: 50px;
+    width: 775px;
+}
+
+.awesome {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.awesomesub {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.signbut {
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+    display: inline-block;
+    padding: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    font-weight: 500;
+    
+
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+}
+
+.bodyupper {
+    font-weight: 800;
+    background-color: white;
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.boxes{
+    display:flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 40px;
+    align-items: center;
+
+}
+
+.box {
+    width: 80px;
+    height: 80px;
+    border: 4px #3772F6 solid;
+    padding: 35px;
+    border-radius: 20px;
+}
+
+.item {
+    width: 155px;
+    height: auto;
+    font-size: 17px;
+    font-weight: 400;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+.bodylower {
+    background-color: #E5E7EB;
+    font-style: italic; 
+    color: #1F2937;
+    font-weight: 300;
+    font-size: 36px;
+    padding: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+
+}
+
+.attribution {
+    font-weight: 900;
+    font-size: 24px;
+    text-align: right;
+    padding-right: 75px;
+}
+
+.ad {
+    background-color: white;
+    padding: 100px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.adblock {
+    width: 1000px;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 15px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.calltoaction {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.signuptime {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.signupbutton {
+    font-size: 18px;
+    font-weight: 500;
+    border: 2px white solid;
+    border-radius: 7px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-size: 18px;
+}
